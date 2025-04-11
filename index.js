@@ -1,0 +1,1 @@
+import './patterns/module.js';
