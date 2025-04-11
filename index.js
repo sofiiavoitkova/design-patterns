@@ -1,5 +1,6 @@
-import "./patterns/module.js";
-import "./patterns/revealingModule.js";
+// import "./patterns/module.js";
+// import "./patterns/revealingModule.js";
+import "./patterns/singleton.js";
 import { sum, subtract, divide, multiply as mult } from "./utils/utils.js";
 
 console.log(sum(2, 3));
